@@ -1,0 +1,6 @@
+Father's Name 
+3. Mother's Name 
+4. Date of Birth 
+5. Birth Registration Number
+6. Mobile Number
+7. Submit Button
